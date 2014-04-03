@@ -1,0 +1,16 @@
+- explanation why energy flow in summmer is higher than in winter
+- explanation in which direction transmission is done
+- explanation why emissions are more or less constant over whole year
+- explanation why prices are decreasing in summer
+
+- description of graphs for wet case
+
+-- description of power transmission
+-- desciption of used methods
+-- theory about resource handling
+-- expansion planning
+
+--- writing abstract
+--- writing conclusion
+--- literature list
+
