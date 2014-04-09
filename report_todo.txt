@@ -3,9 +3,9 @@
 - explanation why emissions are more or less constant over whole year
 - explanation why prices are decreasing in summer
 
-- description of graphs for wet case
+- description of graphs for wet case   ... done
 
--- description of power transmission
+-- description of power transmission   ... done
 -- desciption of used methods
 -- theory about resource handling
 -- expansion planning
