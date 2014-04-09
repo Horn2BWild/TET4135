@@ -1,7 +1,7 @@
 - explanation why energy flow in summmer is higher than in winter
 - explanation in which direction transmission is done
-- explanation why emissions are more or less constant over whole year
-- explanation why prices are decreasing in summer
+- explanation why emissions are more or less constant over whole year  ... done
+- explanation why prices are decreasing in summer  ... done
 
 - description of graphs for wet case   ... done
 
