@@ -67,6 +67,7 @@ For this planning approach the net benefit over the whole analysis period should
 \end{itemize}
 In practise these two planning approaches should be combined. The marginal analysis is used to simulate if the investment is profitable at $t_0$ or later, and the integral analysis for maximazing the net benefit over the whole period.
 \subsection{intermittent resource handling}
+Unlike fossil power plant, wind, solar and small hydro plants do not have fuels with fixed prices which could be used for an optimization. These intermittent resources are dependent on weather conditions. The flow in a river isn´t stable over the year and there is always the possibility of unexpected happenings. There is no chance to forecast the wind or the amount of sun for the next few years. Experienced data is important in a simulation with intermittent resources. The quality of experienced data is dependent on the amount of data available. In this project we use weekly inflow patterns for the small hydro plants and hourly profiles for the wind and solar plants. 
 \subsection{reservoir hydro handling}
 Calculating with reservoir hydro is not as straight forward as with thermal units because there are no fuel prices which could be use for an optimization. Even if the water to a reservoir comes for free, does not mean that it does not have a value. The quantity of water is limited. Often there are environmental regulations that need to be considered. For example fixed residual water flows. To calculate with a reservoir it is important to have information about the reservoir size (maximum and minimum capacities) and inflow patterns. The question with hydro reservoirs is should we use the water right away or store it for later. If there is a large inflow, spillage can occur and the economic value will be zero. If the Inflow is very low, there is the risk of can’t produce enough energy to cover the demand. It is very difficult to forecast the conditions. In this project we work with different inflow scenarios in order to identify the influence of different reservoir levels to the optimal operation plan.
 \subsection{region exchange}
@@ -367,13 +368,15 @@ The energy prices for a whole year 2014 with high inflow is shown in figure \ref
 % expansion planning
 %-------------------------------------------------------------------------------
 \subsection{Expansion planning}
-The need of energy changes over time. So a simulation of future trends in energy production and transmission capacities is necessary for maximizing profit. In this case a decrease of energy need in Germany, a stable need in Sweden and small increases of power consumption in Norway is assumed. The simulation is done in three ways:
+The need of energy changes over time. It is important to simulate future trends in energy production to find the optimal object, size and time. In this model the situation is expected to change over the next 20 years. Fuel prices are expected to increase for all types of fuels except lignite, uranium and bio fuel. The demand for electricity is expected to decrease in Continental Europe represented by Germany, stays stable in Sweden and increase in Norway. The three countries want to reduce $CO_2$ Emissions with an approach to stimulate increased investments in renewable energy sources. The simulation is done with two different approaches and a combined version.
 \begin{itemize}
-\item ??????????
-\item green certificate system
-\item emission tax scheme.
+\item green certificates\\
+To push investments in new renewables, producers of new wind, solar and small hydro plants are awarded with 50 NOK/kWh. This incentive leads to the fact that new wind power plants and also new small hydro power plants get profitable and therefore built as you can see in Figure \ref{fig:CapacityBuiltNewGenGC}. For solar power plant the subsidy is still too low to get profitable due to the high investment costs. Figure \ref{fig:CapacityBuiltNewGenGC} show nicely that investments will be mainly made in the Nordic Countries where you have a great potential for wind and hydro energy. Sweden and Norway will invest in the beginning of the expansion planning. This shows that the set subsidy has an impact on the producers. Germany is not affected by this impact and will invest at the end of the expansion period in a new nuclear power plant. Figure \ref{fig:BuildCostGC} points out that especially the built costs for the wind power plants are quite low while the costs for building the nuclear power plant are a lot higher. The green certificate approach reduces CO2 emissions as desired (Figure \ref{fig:Co2ProductionGC}). The emissions are reduced more or less steadily from the beginning on.
+\item emission tax\\
+The Emission tax approach does not award producers who invest in renewables. In order to make renewables more competitive a tax on $CO_2$ is set to 0.05 NOK/kg.  The Emission tax approach has a similar effect as the green certificate approach and leads to increasing investments in the beginning of the expansion period. Figure \ref{fig:CapacityBuiltNewGenET} reveals that compared to the green certificate case the investments here are not just made on renewables. Germany invests in a new nuclear plant in the beginning of the expansion. Nuclear power plants produce a low amount of $CO_2$ and benefits as well from the set tax. Norway will invest a lot in new small hydro plants and a bit in wind. Wind power plants are not as competitive as in the green certificate approach.\\
+At the end of the simulation period Germany will invest in a new gas power plant. The built cost for the new gas plant are quite low (figure \ref{fig:BuildCostET}). The emission tax is not working as desired in this case. Figure \ref{fig:Co2ProductionET} show that the $CO_2$ emissions sink in the beginning when Norway builds new hydro capacities and Germany invests in nuclear. But then there is no further reduction and the emission level is even rising at the end due to the new built gas capacities.
 \end{itemize}
-As planning horizon a period of 20 years was taken, which is quite common for expansion planning simulations.
+As planning horizon a period of 20 years was taken, which is quite common for expansion planning simulations. For a better understanding of the two approaches the simulation is also made for just the retirement plan without further incentives for the renewables. Figure \ref{fig:capacitywithout} shows that renewables such as wind and solar are not competitive enough without further help.  Norway will invest in a new small hydro plants and Germany in nuclear. Both of them will make the investment after some years because they don´t have further incentives to invest earlier. Figure \ref{fig:CO2without} points out that the $CO_2$ emissions are decreasing over the simulation period even with no further help for renewables. Since both Norway and Germany will invest in new plants with a low production of $CO_2$. The reduction is however slower than with the extra stimulation.
 \newpage
 \begin{figure}[htbp]
 \begin{center}
@@ -452,7 +455,20 @@ As planning horizon a period of 20 years was taken, which is quite common for ex
 \label{fig:Co2ProductionET}
 \end{center}
 \end{figure}
-
+\begin{figure}[htbp]
+\begin{center}
+\includegraphics[width=13cm,keepaspectratio=true]{figures/capacitywithout}
+\caption{}
+\label{fig:capacitywithout}
+\end{center}
+\end{figure}
+\begin{figure}[htbp]
+\begin{center}
+\includegraphics[width=13cm,keepaspectratio=true]{figures/CO2without}
+\caption{}
+\label{fig:CO2without}
+\end{center}
+\end{figure}
 
 
 
