@@ -1,0 +1,421 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.24)  10 APR 2014 18:00
+entering extended mode
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/a4wide.sty
+Package: a4wide 1994/08/30
+
+(/usr/share/texmf-texlive/tex/latex/ntgclass/a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+))
+(/var/lib/texmf/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\lst@mode=\count100
+\lst@gtempboxa=\box28
+\lst@token=\toks20
+\lst@length=\count101
+\lst@currlwidth=\dimen113
+\lst@column=\count102
+\lst@pos=\count103
+\lst@lostspace=\dimen114
+\lst@width=\dimen115
+\lst@newlines=\count104
+\lst@lineno=\count105
+\lst@maxwidth=\dimen116
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count106
+\lst@skipnumbers=\count107
+\lst@framebox=\box29
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen117
+\nom@tempdim=\dimen118
+\nomitemsep=\skip55
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count108
+))
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+\c@lstlisting=\count109
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen121
+\scratchbox=\box30
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen122
+\MPnumerator=\count114
+\everyMPtoPDFconversion=\toks22
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./report.toc)
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [2] (./report.lof
+Overfull \hbox (3.38889pt too wide) detected at line 24
+ \OT1/cmr/m/n/10 VIII
+ []
+
+
+Overfull \hbox (3.38889pt too wide) detected at line 25
+ \OT1/cmr/m/n/10 VIII
+ []
+
+)
+\tf@lof=\write4
+\openout4 = `report.lof'.
+
+ [3] [4] [1]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ´ in font cmr10!
+ [2] [3] [4]
+<figures/MTgenerationG.png, id=38, 843.15pt x 601.4972pt>
+File: figures/MTgenerationG.png Graphic file (type png)
+
+<use figures/MTgenerationG.png>
+<figures/MTgenerationS.png, id=40, 841.64438pt x 599.99156pt>
+File: figures/MTgenerationS.png Graphic file (type png)
+
+<use figures/MTgenerationS.png>
+<figures/MTgenerationN.png, id=41, 841.64438pt x 599.99156pt>
+File: figures/MTgenerationN.png Graphic file (type png)
+
+<use figures/MTgenerationN.png>
+<figures/MTnodetransmission.png, id=42, 843.15pt x 599.23875pt>
+File: figures/MTnodetransmission.png Graphic file (type png)
+
+<use figures/MTnodetransmission.png> [5 <./figures/MTgenerationG.png>] [6 <./fi
+gures/MTgenerationS.png> <./figures/MTgenerationN.png>]
+<figures/MTCO2.png, id=52, 840.13875pt x 601.4972pt>
+File: figures/MTCO2.png Graphic file (type png)
+ <use figures/MTCO2.png>
+<figures/MTprices.png, id=53, 840.13875pt x 599.99156pt>
+File: figures/MTprices.png Graphic file (type png)
+
+<use figures/MTprices.png> [7 <./figures/MTnodetransmission.png>] [8 <./figures
+/MTCO2.png>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [9 <./figures/MTprices.png>]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ´ in font cmr10!
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ´ in font cmr10!
+
+<figures/Expansion/GreenCertificate/BuildCostGC.png, id=67, 987.69pt x 666.9918
+8pt>
+File: figures/Expansion/GreenCertificate/BuildCostGC.png Graphic file (type png
+)
+ <use figures/Expansion/GreenCertificate/BuildCostGC.png> [10]
+<figures/Expansion/GreenCertificate/CapacityBuiltNewGenGC.png, id=71, 984.67876
+pt x 663.98062pt>
+File: figures/Expansion/GreenCertificate/CapacityBuiltNewGenGC.png Graphic file
+ (type png)
+
+<use figures/Expansion/GreenCertificate/CapacityBuiltNewGenGC.png>
+<figures/Expansion/GreenCertificate/Co2ProductionGC.png, id=72, 987.69pt x 668.
+4975pt>
+File: figures/Expansion/GreenCertificate/Co2ProductionGC.png Graphic file (type
+ png)
+ <use figures/Expansion/GreenCertificate/Co2ProductionGC.png>
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ´ in font cmr10!
+ [11 <./figures/Expansion/GreenCertificate/BuildCostGC.png>] [12 <./figures/Exp
+ansion/GreenCertificate/CapacityBuiltNewGenGC.png> <./figures/Expansion/GreenCe
+rtificate/Co2ProductionGC.png>] [13]
+Missing character: There is no Â in font cmr10!
+Missing character: There is no ´ in font cmr10!
+ [14]
+<figures/drycase/MTgenerationGdry.png, id=88, 990.70125pt x 668.4975pt>
+File: figures/drycase/MTgenerationGdry.png Graphic file (type png)
+
+<use figures/drycase/MTgenerationGdry.png>
+<figures/drycase/MTgenerationSdry.png, id=89, 990.70125pt x 668.4975pt>
+File: figures/drycase/MTgenerationSdry.png Graphic file (type png)
+
+<use figures/drycase/MTgenerationSdry.png>
+<figures/drycase/MTgenerationNdry.png, id=90, 990.70125pt x 668.4975pt>
+File: figures/drycase/MTgenerationNdry.png Graphic file (type png)
+
+<use figures/drycase/MTgenerationNdry.png>
+<figures/drycase/MTnodetransmissiondry.png, id=91, 990.70125pt x 668.4975pt>
+File: figures/drycase/MTnodetransmissiondry.png Graphic file (type png)
+
+<use figures/drycase/MTnodetransmissiondry.png>
+<figures/drycase/MTCO2dry.png, id=92, 990.70125pt x 668.4975pt>
+File: figures/drycase/MTCO2dry.png Graphic file (type png)
+
+<use figures/drycase/MTCO2dry.png>
+<figures/drycase/MTpricesdry.png, id=93, 990.70125pt x 668.4975pt>
+File: figures/drycase/MTpricesdry.png Graphic file (type png)
+
+<use figures/drycase/MTpricesdry.png>
+<figures/wetcase/MTgenerationGwet.png, id=94, 990.70125pt x 668.4975pt>
+File: figures/wetcase/MTgenerationGwet.png Graphic file (type png)
+
+<use figures/wetcase/MTgenerationGwet.png>
+<figures/wetcase/MTgenerationSwet.png, id=95, 990.70125pt x 668.4975pt>
+File: figures/wetcase/MTgenerationSwet.png Graphic file (type png)
+
+<use figures/wetcase/MTgenerationSwet.png>
+<figures/wetcase/MTgenerationNwet.png, id=96, 990.70125pt x 668.4975pt>
+File: figures/wetcase/MTgenerationNwet.png Graphic file (type png)
+
+<use figures/wetcase/MTgenerationNwet.png>
+<figures/wetcase/MTnodetransmissionwet.png, id=97, 990.70125pt x 668.4975pt>
+File: figures/wetcase/MTnodetransmissionwet.png Graphic file (type png)
+
+<use figures/wetcase/MTnodetransmissionwet.png>
+<figures/wetcase/MTCO2wet.png, id=98, 990.70125pt x 668.4975pt>
+File: figures/wetcase/MTCO2wet.png Graphic file (type png)
+
+<use figures/wetcase/MTCO2wet.png>
+<figures/wetcase/MTpriceswet.png, id=99, 990.70125pt x 668.4975pt>
+File: figures/wetcase/MTpriceswet.png Graphic file (type png)
+
+<use figures/wetcase/MTpriceswet.png>
+<figures/Expansion/EmissionTax/BuildCostET.png, id=100, 987.69pt x 668.4975pt>
+File: figures/Expansion/EmissionTax/BuildCostET.png Graphic file (type png)
+
+<use figures/Expansion/EmissionTax/BuildCostET.png>
+<figures/Expansion/EmissionTax/CapacityBuiltNewGenET.png, id=101, 986.18437pt x
+ 666.99188pt>
+File: figures/Expansion/EmissionTax/CapacityBuiltNewGenET.png Graphic file (typ
+e png)
+ <use figures/Expansion/EmissionTax/CapacityBuiltNewGenET.png>
+<figures/Expansion/EmissionTax/Co2ProductionET.png, id=102, 986.18437pt x 666.9
+9188pt>
+File: figures/Expansion/EmissionTax/Co2ProductionET.png Graphic file (type png)
+
+ <use figures/Expansion/EmissionTax/Co2ProductionET.png>
+<figures/capacitywithout.png, id=103, 960.58875pt x 604.2575pt>
+File: figures/capacitywithout.png Graphic file (type png)
+
+<use figures/capacitywithout.png>
+<figures/CO2without.png, id=104, 959.585pt x 602.25pt>
+File: figures/CO2without.png Graphic file (type png)
+
+<use figures/CO2without.png> [1 <./figures/drycase/MTgenerationGdry.png>]
+[2 <./figures/drycase/MTgenerationSdry.png> <./figures/drycase/MTgenerationNdry
+.png>] [3 <./figures/drycase/MTnodetransmissiondry.png> <./figures/drycase/MTCO
+2dry.png>] [4 <./figures/drycase/MTpricesdry.png> <./figures/wetcase/MTgenerati
+onGwet.png>] [5 <./figures/wetcase/MTgenerationSwet.png> <./figures/wetcase/MTg
+enerationNwet.png>] [6 <./figures/wetcase/MTnodetransmissionwet.png> <./figures
+/wetcase/MTCO2wet.png>] [7 <./figures/wetcase/MTpriceswet.png> <./figures/Expan
+sion/EmissionTax/BuildCostET.png>] [8 <./figures/Expansion/EmissionTax/Capacity
+BuiltNewGenET.png> <./figures/Expansion/EmissionTax/Co2ProductionET.png>]
+[9 <./figures/capacitywithout.png (PNG copy)> <./figures/CO2without.png (PNG co
+py)>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 3724 strings out of 493848
+ 50937 string characters out of 1152822
+ 108355 words of memory out of 3000000
+ 6927 multiletter control sequences out of 15000+50000
+ 11849 words of font info for 46 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 27i,13n,43p,1808b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
+7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (27 pages, 1848302 bytes).
+PDF statistics:
+ 184 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+

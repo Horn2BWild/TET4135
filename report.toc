@@ -1,0 +1,34 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Theory}{1}
+\contentsline {subsection}{\numberline {2.1}Methods used in the present work}{1}
+\contentsline {subsubsection}{\numberline {2.1.1}Plexos}{1}
+\contentsline {subsubsection}{\numberline {2.1.2}MT Schedule}{1}
+\contentsline {subsubsection}{\numberline {2.1.3}Expansion planning}{1}
+\contentsline {subsection}{\numberline {2.2}The handling of intermittent resources}{2}
+\contentsline {subsection}{\numberline {2.3}The handling of reservoir hydro}{2}
+\contentsline {subsection}{\numberline {2.4}Exchange between regions}{2}
+\contentsline {subsubsection}{\numberline {2.4.1}Advantage}{2}
+\contentsline {subsubsection}{\numberline {2.4.2}Disadvantages}{3}
+\contentsline {subsection}{\numberline {2.5}Initiatives to increase investments for renewables}{3}
+\contentsline {subsubsection}{\numberline {2.5.1}Mechanisms}{3}
+\contentsline {section}{\numberline {3}Analysis}{4}
+\contentsline {subsection}{\numberline {3.1}MT Schedule}{4}
+\contentsline {subsubsection}{\numberline {3.1.1}Normal inflow scenario}{4}
+\contentsline {paragraph}{Optimal generation dispatch\\}{5}
+\contentsline {paragraph}{Transmission\\}{5}
+\contentsline {paragraph}{Emission\\}{7}
+\contentsline {paragraph}{Price\\}{8}
+\contentsline {subsubsection}{\numberline {3.1.2}Low inflow scenario}{8}
+\contentsline {paragraph}{Optimal generation dispatch\\}{8}
+\contentsline {paragraph}{Transmission\\}{9}
+\contentsline {paragraph}{Emission\\}{9}
+\contentsline {paragraph}{Price\\}{9}
+\contentsline {subsubsection}{\numberline {3.1.3}High inflow scenario}{9}
+\contentsline {paragraph}{Optimal generation dispatch\\}{10}
+\contentsline {paragraph}{Transmission\\}{10}
+\contentsline {paragraph}{Emission\\}{10}
+\contentsline {paragraph}{Price\\}{10}
+\contentsline {subsection}{\numberline {3.2}Expansion planning}{10}
+\contentsline {section}{\numberline {4}Conclusion}{14}
+\contentsline {section}{\numberline {A}Additional Figures}{I}
